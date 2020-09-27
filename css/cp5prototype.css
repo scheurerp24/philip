@@ -1,6 +1,16 @@
-body{
-  background-color:#4B9CD3;
+body {
+  background-color:#CCAD8F;
 }
-img{
-  border: 20px #999999;
+img {
+  border: 8px solid #000000;
+}
+h1 {
+  color: #255C99;
+}
+p{
+  color: #B3001B;
+  border-left: 32px solid #3A405A;
+}
+a {
+  color: #E40066;
 }
